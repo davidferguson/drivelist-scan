@@ -1,0 +1,14 @@
+{
+  "name": "drivelist-scan",
+  "version": "0.0.1",
+  "description": "Detect when a drive has been inserted/removed. Replacement for drivelist-scanner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ferguson",
+  "license": "GPL-3.0+",
+  "dependencies": {
+    "drivelist": "^5.2.7"
+  }
+}
