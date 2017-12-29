@@ -9,6 +9,6 @@
   "author": "David Ferguson",
   "license": "GPL-3.0+",
   "dependencies": {
-    "drivelist": "^5.2.7"
+    "drivelist": "5.0.6"
   }
 }
